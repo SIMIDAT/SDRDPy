@@ -1,16 +1,20 @@
-**Welcome to SDRDPy**
+# Welcome to SDRDPy
+
 SDRDPy is an application designed for graphically visualizing knowledge obtained through supervised descriptive rule algorithms.
 
-### Installation Manual
+## Requirements 
+The required version of Windows is 10 or later, and it is only for 64-bit devices. It is a lightweight tool, so a powerful RAM and CPU are **not** necessary.
+
+## Installation Manual
 To learn how to install the application, click [here](Manuals/Installation_Manual.md).
 
-### User Guide
+## User Guide
 To understand how to use the application, click [here](Manuals/User_Guide.md).
 
-### Including New Algorithms
+## Including New Algorithms
 To discover how to include new algorithms in the application, click [here](Manuals/Including_new_algorithms.md).
 
-### Project Architecture
+## Project Architecture
 - In the "assets" folder, you'll find the logo and the image used in the application.
 - The Windows executable is located in `Executable Windows` for using the application on Windows.
 - The `lectura_ficheros` directory includes the .py files that read the rule files of the corresponding algorithm with the same name.
